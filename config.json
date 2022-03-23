@@ -1,0 +1,5 @@
+{
+    "img_src": "http://apimeme.com/meme?meme=Alarm-Clock&top=Top+text&bottom=Bottom+text",
+    "img_dir": "./img",
+    "db_dir": "./db"
+}
