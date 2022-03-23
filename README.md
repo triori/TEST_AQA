@@ -8,6 +8,6 @@
 
 ![Cypress interface](https://github.com/triori/TEST_AQA/blob/master/screenshot_cypress.png)
 
-*For run current test just click by it name. Browsers and registrars are installed automatically.*
+*For run current test just click by it name. Browser and logger are open automatically.*
 
 *If you want run all test, click* ```Run 3 integration specs```
